@@ -1,0 +1,3 @@
+ultralytics>=8.4.0
+opencv-python
+lap>=0.5.12  # track.py (ByteTrack/BoT-SORT)
